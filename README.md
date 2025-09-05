@@ -17,7 +17,7 @@ I'm a start-up proven swiss army knife with extensive hands-on full-stack softwa
 ### 🛠 Used less often but familiar with
 
 `AWS` · `Supabase` · `Vercel` 
-`PostgreSQL` · `GitHub Actions`
+`PostgreSQL` · `GitHub Actions` · `Jekyll`
 
 ### SAAS Integrations I've completed
 
