@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Ashli 👋
 
-<!--
-**ashlibaldwin/ashlibaldwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a start-up proven swiss army knife with extensive hands-on full-stack software engineering experience. I’m also a problem-solver, startup advisor, and builder of impactful, intuitive tools—both customer-facing and internal.
 
-Here are some ideas to get you started:
+💡 Previously worked with the original creators of Gaia GPS  
+🧭 Currently building Goat Maps (iOS app for backcountry navigation)  
+🎯 Past roles include frontend dev, director-level ops, support management and engineering, and product strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech I Use Often
+
+`TypeScript` · `SvelteKit` · `RESTful APIs` 
+`React` · `Python` · `Django` · `Wordpress` 
+`HTML/CSS` · `Tailwind` · `Git`
+
+### 🛠 Used less often but familiar with
+
+`AWS` · `Supabase` · `Vercel` 
+`PostgreSQL` · `GitHub Actions`
+
+### SAAS Integrations I've completed
+
+`Mailchimp` · `Amplitude` · `Braze` 
+`Zendesk`
+
+---
+
+### 📌 Featured Projects
+
+Coming soon
+
+---
+
+### 📫 Let’s Connect
+
+- [LinkedIn](https://linkedin.com/in/ashlibaldwin)
+- [ashlibaldwin.github.io](https://ashlibaldwin.github.io) ← portfolio in progress
+- Resume available on request
+
+---
+
+_You can hire me to solve messy problems, build fast tools, or debug anything cross-functional
