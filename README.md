@@ -12,7 +12,7 @@ I'm a start-up proven swiss army knife with extensive hands-on full-stack softwa
 
 `TypeScript` · `SvelteKit` · `RESTful APIs` 
 `React` · `Python` · `Django` · `Wordpress` 
-`HTML/CSS` · `Tailwind` · `Git`
+`HTML/CSS` · `Tailwind` · `Git` · `Figma`
 
 ### 🛠 Used less often but familiar with
 
